@@ -1,4 +1,4 @@
-import { MoneyContext, MoneyContextProvider } from "@/contexts/PokeContext";
+import { FightPageContext, MoneyContext } from "@/contexts/PokeContext";
 import { create } from "domain";
 import React, { useContext } from "react";
 
